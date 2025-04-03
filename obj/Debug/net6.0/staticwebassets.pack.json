@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\ERP.Web.Utility\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ERP.Web.Utility.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ERP.Web.Utility.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ERP.Web.Utility.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ERP.Web.Utility.props",
+      "PackagePath": "build\\ERP.Web.Utility.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP.Web.Utility.props",
+      "PackagePath": "buildMultiTargeting\\ERP.Web.Utility.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ERP.Web.Utility.props",
+      "PackagePath": "buildTransitive\\ERP.Web.Utility.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

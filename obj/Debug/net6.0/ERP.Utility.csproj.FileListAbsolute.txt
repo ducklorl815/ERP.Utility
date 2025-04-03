@@ -1,0 +1,12 @@
+D:\Project\ERP.Utility\obj\Debug\net6.0\ERP.Utility.csproj.AssemblyReference.cache
+D:\Project\ERP.Utility\obj\Debug\net6.0\ERP.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ERP.Utility\obj\Debug\net6.0\ERP.Utility.AssemblyInfoInputs.cache
+D:\Project\ERP.Utility\obj\Debug\net6.0\ERP.Utility.AssemblyInfo.cs
+D:\Project\ERP.Utility\obj\Debug\net6.0\ERP.Utility.csproj.CoreCompileInputs.cache
+D:\Project\ERP.Utility\bin\Debug\net6.0\ERP.Utility.deps.json
+D:\Project\ERP.Utility\bin\Debug\net6.0\ERP.Utility.dll
+D:\Project\ERP.Utility\bin\Debug\net6.0\ERP.Utility.pdb
+D:\Project\ERP.Utility\obj\Debug\net6.0\ERP.Utility.dll
+D:\Project\ERP.Utility\obj\Debug\net6.0\refint\ERP.Utility.dll
+D:\Project\ERP.Utility\obj\Debug\net6.0\ERP.Utility.pdb
+D:\Project\ERP.Utility\obj\Debug\net6.0\ref\ERP.Utility.dll

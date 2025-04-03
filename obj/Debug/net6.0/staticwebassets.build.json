@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "dM9jQHQnzQOcuoMKN4MWdh04FBsGboY2CYPO4vB68xs=",
+  "Source": "ERP.Web.Utility",
+  "BasePath": "_content/ERP.Web.Utility",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\Project\\ERP.Web.Utility\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ERP.Web.Utility.styles.css",
+      "SourceId": "ERP.Web.Utility",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Project\\ERP.Web.Utility\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ERP.Web.Utility",
+      "RelativePath": "ERP.Web.Utility.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Project\\ERP.Web.Utility\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ERP.Web.Utility.styles.css"
+    },
+    {
+      "Identity": "D:\\Project\\ERP.Web.Utility\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ERP.Web.Utility.bundle.scp.css",
+      "SourceId": "ERP.Web.Utility",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Project\\ERP.Web.Utility\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ERP.Web.Utility",
+      "RelativePath": "ERP.Web.Utility.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Project\\ERP.Web.Utility\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ERP.Web.Utility.bundle.scp.css"
+    }
+  ]
+}
